@@ -1,0 +1,116 @@
+*{
+    display: block;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f0f0f2;
+    margin: 0;
+    padding: 0;
+    font-family:"Segoe UI", sans-serif;
+    }
+
+/* Designing Navigation Bar */
+#nav_bar{
+    background-color:#00f;
+    display: flex;
+    height:7vh;
+    justify-content: space-between;
+    align-items:center;
+    border-radius: 0 0 1em 1em;
+}
+
+#nav_bar_logo{
+    font-size:250%;
+}
+
+.logo{
+    background-color:#f90;
+    border-radius: 0.2em;
+    padding:0.1% 0.2em;
+    margin:0.2%;
+}
+
+.spl_font{
+    font-family: 'Jacques Francois Shadow', cursive;
+}
+
+#nav_bar_tagline{
+    color: #ff0;
+    font-size: 150%;
+    margin: 0 50% 0 0;
+}
+
+.cursive{
+    font-family:cursive;
+}
+
+header ul{
+    font-size: 120%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul li{
+    list-style-type: none;
+}
+
+header ul li a:link{
+    color: #90f;
+    text-decoration: none;
+    word-wrap: normal;
+    padding: 0 1.5em;
+    background-color: #fff;
+    border-radius: 0.5em;
+}
+
+header ul li a:hover{
+    color: #00a;
+}
+
+/* Designing Home Page */
+#intro{
+    width: 75%;
+    padding: 2em 5em;
+    border-radius: 4em;
+    background-color: #fff    ;
+    margin: 3em auto;
+}
+
+#intro_image{
+    width: 100%;
+    height: auto;
+    border-radius: 0 0 2em 2em;
+}
+
+/* Designing Contact Page */
+
+/* Designing Review Page */
+#review_form{
+    width: 60%;
+    padding: 2em;
+    background-color: #fdfdff;
+    margin: 5em auto;
+    border-radius: 0.5em;
+}
+
+.txt{
+    display: inline-block;
+    margin: 2% 0;
+    width: 100%;
+    border-radius: 1em;
+}
+
+.txt{
+    padding: 0 0 0 .5em;
+}
+
+.submit{
+    display: block;
+    margin: 0 auto;
+    padding: 0 2px;
+}
