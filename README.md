@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @JS-codegamer
-- 👀 I’m interested in Software-Development, Pentesting, Scientific Simulation and lately Web-Develpoment and Data Sciences
-- 🤓 I’m proficient Python, C++, C and some web tech like ReactJS, NodeJS and Django.
-- 🌱 I'm currently learning by building so definately looking to colaborate on any project under above tech.
-- 💻 I love exploring computers so am currently exploring the field of Data (ML) and the field of Binary Exploitation (tough but fun).
-- ✈️ Oh being an aerospace student I also love to do scientific simulation mainly in Python and Matlab
-<!---
-- 💞️ I’m looking to collaborate on Python projects for Simulation
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JS-CodeGamer&theme=rose-pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JS-CodeGamer&theme=rose-pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JS-CodeGamer&theme=rose-pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-JS-codegamer/JS-codegamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JS-CodeGamer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CodeMaster17&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
